@@ -38,4 +38,4 @@ Using the model CPU demonstrated in class, write code using the simple machine l
 
 ## Lab #2
 
-Using the model CPU demonstrated in class write code using the simple machine language of Chapter 2 and Appendix C to solve the following math problem: `(13 + 5) * 7`. Store the result in memory location `BB`. Your code must include a loop and don’t forget to convert the decimal values into hex when writing the code. Turn in a copy of your code with comments explaining your program in English.
+Using the model CPU demonstrated in class write code using the simple machine language of Chapter 2 and Appendix C to solve the following math problem: `(17 + 6) * 8`. Store the result in memory location `BB`. Your code must include a loop and don’t forget to convert the decimal values into hex when writing the code. Turn in a copy of your code with comments explaining your program in English.
