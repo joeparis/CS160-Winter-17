@@ -1,5 +1,12 @@
 # CS160 Orientation to Computer Science
 
+**Joe Paris**  
+Office: MKH-116  
+Email: joe.paris@linnbenton.edu  
+Web site: `http://joeparis.net`
+
+## Course Description
+
 CS160 introduces the field of computer science and programming.  It covers binary encoding of data, logic, computer organization, operating systems, programming languages, algorithms, software engineering, and data and file organization.
 
 ## Prerequisites
