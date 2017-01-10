@@ -65,6 +65,8 @@ Written assignments must be word processed and spell- and grammar-checked.
 
 Quizzes will be given the last class period of each week with the exception of Weeks 1, 9 & 10. 
 
+No make-up quizzes will be given without *prior* arrangements.
+
 The lowest quiz score will be dropped.
 
 ### Exams
