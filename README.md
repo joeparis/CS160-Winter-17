@@ -55,6 +55,8 @@ It is recommended that you use the computers in the labs in McKenzie Hall (MKH-1
 
 Alternately, you may use your own personal computer provided it has any required software installed.
 
+Assigments are due by 5:00 p.m. on the scheduled due date.
+
 Late assignments will not be accepted, no exceptions.
 
 Assignments may not be submitted via e-mail.
