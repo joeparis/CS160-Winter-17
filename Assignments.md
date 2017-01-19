@@ -3,20 +3,19 @@
 Assign # | Description | Due Date
 -------- | ----------- | --------
 1 | See description below | Jan 12
-2 | pg 74: 6, 12, 13, 15, 19 | Jan 17
-3 | pg 74: 7, 18, 24, 26, 27 | Jan 19
-4 | pg 75: 29, 30, 32, 33, 35 | Jan 24
-5 | pg 75: 36, 37, 38, 44, 46 | Jan 26
-6 | See description below | Jan 31
-7 | pg 119: 3, 5, 7, 9, 12 | Feb 2
+2 | pg 74: 7, 15, 18, 19, 24  | Jan 24
+3 | pg 75: 26, 27, 29, 30, 32, 33, 35 | Jan 26
+4 | pg 75: 36, 37, 38, 44, 46 | Jan 31
+5 | See description below | Jan 31
+6 | pg 119: 3, 5, 7, 9, 12 | Feb 2
 Lab #1 | Model CPU: see instructions below | Feb 7
-8 | pg 120: 15, 16, 17, 20, 21 | Feb 9
+7 | pg 120: 15, 16, 17, 20, 21 | Feb 9
 Lab #2 | Model CPU: see instructions below | Feb 14
-9 | pg 151: 1, 2, 13, 15, 18 | Feb 16
-10 | pg 199: 1, 6, 10, 15, 24 | Feb 21
-11 | pg 251: 4, 5, 6, 7, 8 | Feb 23
-12 | pg 252: 13, 15, 18, 22, 26 | Feb 28
-13 | pg 312: 5, 6, 15, 17, 27 | Mar 2
+8 | pg 151: 1, 2, 13, 15, 18 | Feb 16
+9 | pg 199: 1, 6, 10, 15, 24 | Feb 21
+10 | pg 251: 4, 5, 6, 7, 8 | Feb 23
+11 | pg 252: 13, 15, 18, 22, 26 | Feb 28
+12 | pg 312: 5, 6, 15, 17, 27 | Mar 2
 Lego Robotics Project | handout | Mar 14
 Python Project | handout | Mar 21
 
