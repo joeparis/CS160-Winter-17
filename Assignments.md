@@ -25,7 +25,7 @@ All assignments must be **typed** using a word processor and submitted via your 
 
 Read Section 0.4 Themes of Computer Science, pg 11–16. From pages 16-17 _Social Issues_ choose one of the following questions, 1, 7, 12, or 15, and write two or more paragraphs to answer the question. Type your answer to be turned in and bring a copy of it with you to class. Be prepared to discuss your responses during class.
 
-## Assignment #6
+## Assignment #5
 
 Pg 77-78, _Social Issues_. Choose from questions 1, 3, 5 or
 6 and write two or more paragraphs to answer the question. Type your
