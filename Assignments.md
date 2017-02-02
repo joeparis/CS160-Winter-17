@@ -33,7 +33,7 @@ answer to be turned in and be prepared to discuss your answers in class.
 
 ## Lab #1:
 
-Using the model CPU demonstrated in class, write code using the simple machine language of Chapter 2 and Appendix C to solve the following math problem: `23 – 13 + 17` storing the result in memory location `EE`. Remember that the model CPU uses hexadecimal values so you will need to represent the decimal values in the problem in hex. You will then need to convert the 13 from a positive to a negative number _in your code_ before adding the three numbers together. Turn in a copy of your code with comments that explain your program in English.
+Using the model CPU demonstrated in class, write code using the simple machine language of Chapter 2 and Appendix C to solve the following math problem: `23 – 13 + 17` storing the result in memory location `EE`. Remember that the model CPU uses hexadecimal values so you will need to represent the decimal values in the problem in hex. You will then need to convert the 13 from a positive to a negative number _in your code_ before adding the three numbers together. Hint: you will need to use the logical operators in the simple simultor's instruction set as on step in complementing the value. Turn in a copy of your code with comments that explain your program in English.
 
 ## Lab #2
 
