@@ -7,9 +7,9 @@ Assign # | Description | Due Date
 3 | pg 75: 26, 27, 29, 30, 32, 33, 35 | Jan 26
 4 | pg 75: 36, 37, 38, 44, 46 | Jan 31
 5 | See description below | Jan 31
-6 | pg 119: 3, 5, 7, 9, 12 | Feb 7
-Lab #1 | Model CPU: see instructions below | Feb 7
-7 | pg 120: 15, 16, 17, 20, 21 | Feb 9
+6 | pg 119: 3, 5, 7, 9, 12 | Feb 10
+Lab #1 | Model CPU: see instructions below | Feb 10
+7 | pg 120: 15, 16, 17, 20, 21 | Feb 14
 Lab #2 | Model CPU: see instructions below | Feb 14
 8 | pg 151: 1, 2, 13, 15, 18 | Feb 16
 9 | pg 199: 1, 6, 10, 15, 24 | Feb 21
