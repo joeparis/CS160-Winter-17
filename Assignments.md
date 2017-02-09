@@ -10,7 +10,7 @@ Assign # | Description | Due Date
 6 | pg 119: 3, 5, 7, 9, 12 | Feb 10
 Lab #1 | Model CPU: see instructions below | Feb 10
 7 | pg 120: 15, 16, 17, 20, 21 | Feb 14
-Lab #2 | Model CPU: see instructions below | Feb 14
+Lab #2 | Model CPU: see instructions below | Feb 15
 8 | pg 151: 1, 2, 13, 15, 18 | Feb 16
 9 | pg 199: 1, 6, 10, 15, 24 | Feb 21
 10 | pg 251: 4, 5, 6, 7, 8 | Feb 23
