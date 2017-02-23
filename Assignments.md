@@ -13,9 +13,9 @@ Lab #1 | Model CPU: see instructions below | Feb 10
 Lab #2 | Model CPU: see instructions below | Feb 15
 8 | pg 151: 1, 2, 13, 15, 18 | Feb 16
 9 | pg 199: 1, 6, 10, 15, 24 | Feb 21
-10 | pg 251: 4, 5, 6, 7, 8 | Feb 23
-11 | pg 252: 13, 15, 18, 22, 26 | Feb 28
-12 | pg 312: 5, 6, 15, 17, 27 | Mar 2
+10 | pg 251: 4, 5, 6, 7, 8 | Feb 28
+11 | pg 252: 13, 15, 18, 22, 26 | Mar 2
+12 | pg 312: 5, 6, 15, 17, 27 | Mar 14
 Lego Robotics Project | handout | Mar 14
 Python Project | handout | Mar 21
 
